@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.e913df73.css",
-    "main.js": "/static/js/main.4ce08d1b.js",
-    "static/media/video.mp4": "/static/media/video.f8da1bd627fb65ee9cf5.mp4",
-    "static/media/contact-us-bg.png": "/static/media/contact-us-bg.79a1214d8b548180cb57.png",
-    "static/media/air-balloon.png": "/static/media/air-balloon.34812eb12fac3fa655a7.png",
-    "static/media/header-bg.jpg": "/static/media/header-bg.e29e3fb806c65af07094.jpg",
-    "static/media/navbar-bg.jpg": "/static/media/navbar-bg.ba1cf1c90ae9346ed046.jpg",
-    "static/media/forest.jpg": "/static/media/forest.33993afd78856e2652ce.jpg",
-    "static/media/river.jpg": "/static/media/river.f442b0dcb07ea79c6a74.jpg",
-    "static/media/story-img-1.jpg": "/static/media/story-img-1.8f88dcaab47dced1acb5.jpg",
-    "static/media/sea.jpg": "/static/media/sea.959fae092162784b742d.jpg",
-    "static/media/story-img-2.jpg": "/static/media/story-img-2.0dc97ac393ec0962c323.jpg",
-    "index.html": "/index.html",
-    "main.e913df73.css.map": "/static/css/main.e913df73.css.map",
-    "main.4ce08d1b.js.map": "/static/js/main.4ce08d1b.js.map"
+    "main.css": "/me_2023-0802-the_road-react-build/static/css/main.b5695430.css",
+    "main.js": "/me_2023-0802-the_road-react-build/static/js/main.b653cf09.js",
+    "static/media/video.mp4": "/me_2023-0802-the_road-react-build/static/media/video.f8da1bd627fb65ee9cf5.mp4",
+    "static/media/contact-us-bg.png": "/me_2023-0802-the_road-react-build/static/media/contact-us-bg.79a1214d8b548180cb57.png",
+    "static/media/air-balloon.png": "/me_2023-0802-the_road-react-build/static/media/air-balloon.34812eb12fac3fa655a7.png",
+    "static/media/header-bg.jpg": "/me_2023-0802-the_road-react-build/static/media/header-bg.e29e3fb806c65af07094.jpg",
+    "static/media/navbar-bg.jpg": "/me_2023-0802-the_road-react-build/static/media/navbar-bg.ba1cf1c90ae9346ed046.jpg",
+    "static/media/forest.jpg": "/me_2023-0802-the_road-react-build/static/media/forest.33993afd78856e2652ce.jpg",
+    "static/media/river.jpg": "/me_2023-0802-the_road-react-build/static/media/river.f442b0dcb07ea79c6a74.jpg",
+    "static/media/story-img-1.jpg": "/me_2023-0802-the_road-react-build/static/media/story-img-1.8f88dcaab47dced1acb5.jpg",
+    "static/media/sea.jpg": "/me_2023-0802-the_road-react-build/static/media/sea.959fae092162784b742d.jpg",
+    "static/media/story-img-2.jpg": "/me_2023-0802-the_road-react-build/static/media/story-img-2.0dc97ac393ec0962c323.jpg",
+    "index.html": "/me_2023-0802-the_road-react-build/index.html",
+    "main.b5695430.css.map": "/me_2023-0802-the_road-react-build/static/css/main.b5695430.css.map",
+    "main.b653cf09.js.map": "/me_2023-0802-the_road-react-build/static/js/main.b653cf09.js.map"
   },
   "entrypoints": [
-    "static/css/main.e913df73.css",
-    "static/js/main.4ce08d1b.js"
+    "static/css/main.b5695430.css",
+    "static/js/main.b653cf09.js"
   ]
 }
