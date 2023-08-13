@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/me_2023-0802-the_road-react-build/static/css/main.ce5529e0.css",
+    "main.css": "/me_2023-0802-the_road-react-build/static/css/main.49fa09bb.css",
     "main.js": "/me_2023-0802-the_road-react-build/static/js/main.5146f00b.js",
     "static/media/video.mp4": "/me_2023-0802-the_road-react-build/static/media/video.f8da1bd627fb65ee9cf5.mp4",
     "static/media/contact-us-bg.png": "/me_2023-0802-the_road-react-build/static/media/contact-us-bg.79a1214d8b548180cb57.png",
@@ -13,11 +13,11 @@
     "static/media/sea.jpg": "/me_2023-0802-the_road-react-build/static/media/sea.959fae092162784b742d.jpg",
     "static/media/story-img-2.jpg": "/me_2023-0802-the_road-react-build/static/media/story-img-2.0dc97ac393ec0962c323.jpg",
     "index.html": "/me_2023-0802-the_road-react-build/index.html",
-    "main.ce5529e0.css.map": "/me_2023-0802-the_road-react-build/static/css/main.ce5529e0.css.map",
+    "main.49fa09bb.css.map": "/me_2023-0802-the_road-react-build/static/css/main.49fa09bb.css.map",
     "main.5146f00b.js.map": "/me_2023-0802-the_road-react-build/static/js/main.5146f00b.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce5529e0.css",
+    "static/css/main.49fa09bb.css",
     "static/js/main.5146f00b.js"
   ]
 }
